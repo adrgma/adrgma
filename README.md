@@ -1,14 +1,11 @@
-### Halo semua! 👋
+### Hello Everyone! 👋
 
-Perkenalkan nama saya **Aditia Arga Pratama**.\
-
-Saya seorang Lulusan **S1 Sistem Informasi** dari [Universitas Gunadarma](https://gunadarma.ac.id/) pada tahun 2020 dengan IPK **3.72**.\
-
-Saya memiliki [sertifikasi programmer back-end pemula](https://www.dicoding.com/certificates/72ZDEE1LVPYW).\
-
-Saya pernah melakukan magang dalam mengerjakan projek [SIASN](https://siasn.bkn.go.id/#) milik BKN selama 6 bulan sebagai back-end developer.\
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/aditia-arga-pratama-264608130/)ku ya.
+- My Name is **Aditia Arga Pratama**.\
+- 🔭I am a Graduate **S1 Information Systems** from [Gunadarma University](https://gunadarma.ac.id/) in 2020 with a GPA **3.72**.
+- 🔭I have [sertifikasi programmer back-end pemula](https://www.dicoding.com/certificates/72ZDEE1LVPYW).
+- 👯 I once did an internship working on the BKN's [SIASN](https://siasn.bkn.go.id/#) project for 6 months as a back-end developer.
+- 🌱 I’m currently learning Data Analysis in [DQLab](https://academy.dqlab.id/).
+- 📫 If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/aditia-arga-pratama-264608130/) account.
 
 
 <!--
