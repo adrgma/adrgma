@@ -1,6 +1,6 @@
 ### Hello Everyone! 👋
 
-- My Name is **Aditia Arga Pratama**.\
+- My Name is **Aditia Arga Pratama**.
 - 🔭I am a Graduate **S1 Information Systems** from [Gunadarma University](https://gunadarma.ac.id/) in 2020 with a GPA **3.72** and **S2 Information Systems Business** from [Gunadarma University](https://gunadarma.ac.id/) in 2020 with a GPA **3.90**.
 - 🔭I have [sertifikasi programmer back-end pemula](https://www.dicoding.com/certificates/72ZDEE1LVPYW) and [sertifikasi Data Analyst Python Track](https://academy.dqlab.id/certificate/pdf/DQLABDATRCAHRVGL/TRACK)
 - 👯 I once did an internship working on the BKN's [SIASN](https://siasn.bkn.go.id/#) project for 6 months as a back-end developer.
