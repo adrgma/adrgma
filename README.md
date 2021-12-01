@@ -5,7 +5,7 @@
 - 🔭I have [sertifikasi programmer back-end pemula](https://www.dicoding.com/certificates/72ZDEE1LVPYW) and [sertifikasi Data Analyst Python Track](https://academy.dqlab.id/certificate/pdf/DQLABDATRCAHRVGL/TRACK)
 - 👯 I once did an internship working on the BKN's [SIASN](https://siasn.bkn.go.id/#) project for 6 months as a back-end developer.
 - 🌱 I’m currently learning Data Analysis in [DQLab](https://academy.dqlab.id/) and web-development in [Dicoding](https://www.dicoding.com/)
-- 📫 If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/aditia-arga-pratama-264608130/) account.
+- 📫 If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/aditia-arga-pratama-264608130/) account or you can [mail](arga.aditia@gmail.com) me.
 
 
 <!--
