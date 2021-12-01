@@ -4,7 +4,7 @@
 - 🔭I am a Graduate **S1 Information Systems** from [Gunadarma University](https://gunadarma.ac.id/) in 2020 with a GPA **3.72** and **S2 Information Systems Business** from [Gunadarma University](https://gunadarma.ac.id/) in 2020 with a GPA **3.90**.
 - 🔭I have [sertifikasi programmer back-end pemula](https://www.dicoding.com/certificates/72ZDEE1LVPYW) and [sertifikasi Data Analyst Python Track](https://academy.dqlab.id/certificate/pdf/DQLABDATRCAHRVGL/TRACK)
 - 👯 I once did an internship working on the BKN's [SIASN](https://siasn.bkn.go.id/#) project for 6 months as a back-end developer.
-- 🌱 I’m currently learning Data Analysis in [DQLab](https://academy.dqlab.id/) and web-development in [Dicodin](https://www.dicoding.com/)
+- 🌱 I’m currently learning Data Analysis in [DQLab](https://academy.dqlab.id/) and web-development in [Dicoding](https://www.dicoding.com/)
 - 📫 If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/aditia-arga-pratama-264608130/) account.
 
 
